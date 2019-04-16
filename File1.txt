@@ -1,1 +1,2 @@
 This is the first file to be commited.
+File added into the index.

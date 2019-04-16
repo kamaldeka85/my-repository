@@ -1,1 +1,2 @@
 First file in branch1
+File commited and added to master branch

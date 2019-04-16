@@ -1,2 +1,6 @@
 First file in branch1
+<<<<<<< HEAD
 Modified
+=======
+File commited and added to master branch
+>>>>>>> branch1

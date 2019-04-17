@@ -1,1 +1,1 @@
-newbranch first file
+newbranch first file. Modified in newbranch file

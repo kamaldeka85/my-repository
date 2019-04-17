@@ -1,1 +1,1 @@
-second file added to the newbranch
+second file added to the newbranch. Modified for rebasing

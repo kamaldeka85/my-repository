@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File in firstbranch. Modified in firstbranch.
+=======
+File in firstbranch.
+>>>>>>> firstbranch
